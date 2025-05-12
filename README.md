@@ -2,22 +2,22 @@
 <h3 align="center">A passionate Data Scientist / Data Analyst</h3>
 
 
-- 🎓 Pursuing a Master's degree in **Business Analytics @ UC Irvine**
+- 🎓 Pursuing a Master's degree in Business Analytics @ UC Irvine
 
   
-- 🏡 Currently a Student Data Scientist Intern at **BSH Home Appliances**  
+- 🏡 Currently a Student Data Scientist Intern at [BSH Home Appliances](https://www.bsh-group.com/us/)
   *(B2B Manufacturer / B2C Retailer)*
 
   
-- 🚕 Data Scientist (Strategy) Intern at **DiDi**  
+- 🚕 Data Scientist (Strategy) Intern at [DiDi](https://web.didiglobal.com/)  
   *(B2C Tech, China's Uber)*
 
   
-- 🚢 Data Analyst Intern at **China Duty Free Group**  
-  *(B2C Retailer in Travel Retail)*
+- 🚢 Data Analyst Intern at [China Duty Free Group](https://www.cdfg.com.cn/)  
+  *(B2C Retailer)*
 
   
-- 🏭 Data Analyst Intern at **QianHai JinTeng Intelligent Mechanics**  
+- 🏭 Data Analyst Intern at QianHai JinTeng Intelligent Mechanics 
   *(B2B Manufacturer)*
 
 
