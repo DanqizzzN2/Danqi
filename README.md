@@ -6,18 +6,22 @@
 
   
 - 🏡 Currently a Student Data Scientist Intern at [BSH Home Appliances](https://www.bsh-group.com/us/)
+
   *(B2B Manufacturer / B2C Retailer)*
 
   
-- 🚕 Data Scientist (Strategy) Intern at [DiDi](https://web.didiglobal.com/)  
+- 🚕 Data Scientist (Strategy) Intern at [DiDi](https://web.didiglobal.com/)
+
   *(B2C Tech, China's Uber)*
 
   
-- 🚢 Data Analyst Intern at [China Duty Free Group](https://www.cdfg.com.cn/)  
+- 🚢 Data Analyst Intern at [China Duty Free Group](https://www.cdfg.com.cn/)
+
   *(B2C Retailer)*
 
   
-- 🏭 Data Analyst Intern at QianHai JinTeng Intelligent Mechanics 
+- 🏭 Data Analyst Intern at QianHai JinTeng Intelligent Mechanics
+  
   *(B2B Manufacturer)*
 
 
