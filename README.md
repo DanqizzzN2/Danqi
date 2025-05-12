@@ -27,7 +27,6 @@
 - 💬 Passionate about **turning data into strategic business decisions**
 
   
-- 📫 Reach me at: [danqiforwork@gmail.com](mailto:danqiforwork@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
