@@ -5,7 +5,7 @@
 - 🎓 Pursuing a Master's degree in Business Analytics @ UC Irvine
 
   
-- 🏡 Currently a Student Data Scientist Intern at [BSH Home Appliances](https://www.bsh-group.com/us/)
+- 🏡 Currently a Student Data Scientist at [BSH Home Appliances](https://www.bsh-group.com/us/)
 
   *(B2B Manufacturer / B2C Retailer)*
 
@@ -15,7 +15,7 @@
   *(B2C Tech, China's Uber)*
 
   
-- 🚢 Data Analyst Intern at [China Duty Free Group](https://www.cdfg.com.cn/)
+- 🚢 Data Operation Analyst Intern at [China Duty Free Group](https://www.cdfg.com.cn/)
 
   *(B2C Retailer)*
 
