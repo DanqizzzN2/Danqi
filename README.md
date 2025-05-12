@@ -9,15 +9,15 @@
   *(B2B Manufacturer / B2C Retailer)*
 
   
-- 🚕 Former Data Scientist (Strategy) Intern at **DiDi**  
+- 🚕 Data Scientist (Strategy) Intern at **DiDi**  
   *(B2C Tech, China's Uber)*
 
   
-- 🚢 Former Data Analyst Intern at **China Duty Free Group**  
+- 🚢 Data Analyst Intern at **China Duty Free Group**  
   *(B2C Retailer in Travel Retail)*
 
   
-- 🏭 Former Data Analyst Intern at **QianHai JinTeng Intelligent Mechanics**  
+- 🏭 Data Analyst Intern at **QianHai JinTeng Intelligent Mechanics**  
   *(B2B Manufacturer)*
 
 
